@@ -8,9 +8,9 @@ O treinamento está dividido em 5 marcos principais:
 
 1.  **Milestone 1: Fundamentos, Algoritmos e POO** (Em progresso)
 2.  **Milestone 2: Infraestrutura e Banco de Dados** (Planejado)
-3.  **Milestone 3: Backend API e Persistência Real** (Planejado)
-4.  **Milestone 4: Interface Web Vanilla** (Planejado)
-5.  **Milestone 5: Frontend Moderno com Next.js** (Planejado)
+3.  **Milestone 3: Backend API e Persistência** (Planejado)
+4.  **Milestone 4: Interface Web Básica** (Planejado)
+5.  **Milestone 5: Frontend React com Next.js** (Planejado)
 
 ## 🛠️ Tecnologias
 
