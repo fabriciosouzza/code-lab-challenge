@@ -1,4 +1,4 @@
-# Stage 03 - Challenge: Sistema Completo
+# Stage 03
 
 ## O Desafio
 

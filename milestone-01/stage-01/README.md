@@ -1,4 +1,4 @@
-# Stage 01 - Manipulação de Dados: Arrays e Objetos
+# Stage 01 - Manipulação de Dados
 
 ## O Problema
 

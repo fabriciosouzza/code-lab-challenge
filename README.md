@@ -1,8 +1,8 @@
 # Code Evolution Lab
 
-Treinamento prático focado na evolução de habilidades técnicas, desde os fundamentos de lógica e TypeScript até a construção de APIs robustas e interfaces modernas.
+Teste prático focado na evolução de habilidades técnicas, desde os fundamentos de lógica e TypeScript até a construção de APIs simples e interfaces.
 
-## 🚀 Roadmap de Milestones
+## Roadmap
 
 O treinamento está dividido em 5 marcos principais:
 
@@ -12,13 +12,13 @@ O treinamento está dividido em 5 marcos principais:
 4.  **Milestone 4: Interface Web Básica** (Planejado)
 5.  **Milestone 5: Frontend React com Next.js** (Planejado)
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 -   **Linguagem:** TypeScript
 -   **Testes:** Jest
 -   **Ambiente:** Node.js
 
-## 🏁 Como Começar
+## Como Começar
 
 Cada `stage` dentro dos Milestones é um projeto independente.
 

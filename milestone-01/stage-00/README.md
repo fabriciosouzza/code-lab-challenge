@@ -1,4 +1,4 @@
-# Stage 00 - Warmup: Lógica Pura com TypeScript
+# Stage 00 - Warmup: Lógica com TypeScript
 
 ## Desafio
 
