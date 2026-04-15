@@ -4,7 +4,7 @@ Teste prático focado na evolução de habilidades técnicas, desde os fundament
 
 ## Roadmap
 
-O treinamento está dividido em 5 marcos principais:
+O teste está dividido em 5 marcos principais:
 
 1.  **Milestone 1: Fundamentos, Algoritmos e POO** (Em progresso)
 2.  **Milestone 2: Infraestrutura e Banco de Dados** (Planejado)

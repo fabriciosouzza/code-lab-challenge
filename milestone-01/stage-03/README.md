@@ -2,7 +2,7 @@
 
 ## O Desafio
 
-Implemente os **4 services** e o **ShopController** que os orquestra. Os testes interagem **exclusivamente** com o controller — a arquitetura interna é sua decisão.
+Implemente os **4 services** e o **ShopController** que os orquestra. Os testes interagem **exclusivamente** com o controller.
 
 ---
 
